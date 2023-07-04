@@ -1,5 +1,5 @@
 # noob-employees-management-system
-simple crud operation on spring and thymeleaf
+simple crud operation on spring and thymeleaf and mysql database
 
 ![Screenshot 2023-07-04 224333](https://github.com/abdelmoneim-elshafei/noob-employees-management-system/assets/103078233/10742fd9-e95c-4990-879c-257d9c8254ae)
 
